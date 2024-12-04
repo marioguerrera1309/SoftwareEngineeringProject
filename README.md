@@ -1,2 +1,2 @@
 # SoftwareEngineeringProject
-Project of Guerrera Mario Anthony, Caramagno Stefano, Fichera Alessia
+Project of Fichera Alessia, Caramagno Stefano, Guerrera Mario Anthony
