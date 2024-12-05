@@ -1,4 +1,4 @@
-# Hotel Management Systems 
+# Hotel Management System
 
 ## Project of Software Engineering course
 
